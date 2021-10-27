@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mustafa DURAN
 - 👀 I’m interested in Programming Languages & Web Dev
 - 🌱 I’m currently learning C#, Java, AngularJS, React
-- 📫 You can reach me with this e-address "must.drn@hotmail.com"
+- 📫 You can reach me via e-address "must.drn@hotmail.com"
